@@ -1,1 +1,1 @@
-console.log("789246987")
+console.log("안녕하세요");
